@@ -3,8 +3,6 @@
 - 🔭 Atualmente sou Estagiária em Engenharia de dados
 - 🌱 Estou estudando Ciência de dados
 - 💙 Faço parte do time de Importação na iClinic
-- 🤔 Comecei no mundo da programação em 2021... 
-então ainda tenho muito muito meesmo pra aprender(e ainda bem kk)
 - 😄 Pronomes: Ela/Dela
 
 <div>
